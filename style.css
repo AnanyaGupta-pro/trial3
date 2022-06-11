@@ -1,0 +1,81 @@
+.logo_img{
+    float:left; 
+    height:60px; 
+    width: 70px;
+    margin-top:15px ;
+    margin-left: 70px;
+    box-shadow: 0 0 1px 0 rgba(24, 94, 224, 0.15), 0 6px 12px 0 rgba(24, 94, 224, 0.15);
+    border-radius: 70px;
+}
+
+body{
+    margin: 0;
+    font-family: arial;
+  
+  }
+
+#heading{
+      margin-top: 28px;
+      margin-left: 50px;
+      font-size: 32px;
+      font-weight: bolder;
+      font-family: 'Abril Fatface', cursive;
+font-family: 'Oswald', sans-serif;
+}
+
+.logo1{
+    width: 20px;
+    height: 20px;
+   
+}
+
+.icons{
+    height: 30px;
+    width: 30px;
+    margin-top: 25px;
+    float: left;
+    box-shadow: 0 0 1px 0 rgba(24, 94, 224, 0.15), 0 6px 12px 0 rgba(24, 94, 224, 0.15);
+    margin-left: 3px;
+    border-radius: 50px;
+}
+
+.text{
+    font-size: 10px;
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: 1px;
+    font-weight: bold;
+}
+
+.span_mob,.span_email{
+    margin:25px;
+    float: left;
+  
+  
+
+}
+
+.social_media{
+    margin-left:200px ;
+}
+.text2{
+font-size: 13px;
+font-family: 'Abril Fatface', cursive;
+font-family: 'Charis SIL', serif;
+font-family: 'Oswald', sans-serif;
+font-weight: bolder;
+}
+
+.div_main div{
+   background-image: url("bg1.png");
+}
+
+.topdiv section{
+    background-color: whitesmoke;
+}
+.email{
+    margin-left: 100px;
+}
+.mobile{
+    margin-left: 80px;
+}
